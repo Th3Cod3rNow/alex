@@ -24,5 +24,5 @@ I'm Alex, 20 y.o
 ## Hobbies
 * 🏒 Hockey 
 ## Contacts
-![https://t.me/mrayayaya](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mrayayaya)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/mrayayaya)
+
