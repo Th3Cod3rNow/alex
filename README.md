@@ -19,11 +19,9 @@ I'm Alex, 20 y.o
 # 🧑🏻 More about me
 
 ## Languages
-  <br> Russian - Native
-  <br> English - A2/B1
-  
+<br> Russian - Native
+<br> English - A2/B1
 ## Hobbies
-  <br> 🏒 Hockey
-  
+<br> 🏒 Hockey 
 ## Contacts
-  <br> [Telegram](https://t.me/mrayayaya)
+<br> [Telegram](https://t.me/mrayayaya)
