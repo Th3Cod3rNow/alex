@@ -19,7 +19,7 @@ I'm Alex, 20 y.o
 # 🧑🏻 More about me
 
 **Languages**
-* [U+1F1F7] Russian - Native
+* Russian - Native
 * English - A2/B1
 
 **Hobbies**
