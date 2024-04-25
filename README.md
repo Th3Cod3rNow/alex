@@ -21,8 +21,10 @@ I'm Alex, 20 y.o
 **Languages**
 * Russian - Native
 * English - A2/B1
+
 **Hobbies**
-* 🏒 Hockey 
+* 🏒 Hockey
+
 **Contacts**
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/mrayayaya)
 
