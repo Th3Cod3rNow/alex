@@ -17,10 +17,13 @@ I'm Alex, 20 y.o
 # 🐾 Pet projects: 
 
 # 🧑🏻 More about me:
+
 **Languages**
   <br> Russian - Native
   <br> English - A2/B1
+  
 **Hobbies**
   <br> 🏒 Hockey
-  **Contacts** 
+  
+**Contacts** 
   <br> [Telegram](https://t.me/mrayayaya)
